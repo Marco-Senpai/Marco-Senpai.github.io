@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Putting the **G** in Growth Mindset #
 
-You can use the [editor on GitHub](https://github.com/Marco-Senpai/Marco-Senpai.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## _Defining the Terms_ ##
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The growth mindset is essentially the idea or school of thought that
+learning is the route to growth and development. Talent is simply a good
+headstart when pursuing an endeavor or skill. The hard work is neede to refine 
+the talent into a hardened skill to mold an expert. A growth mindset 
+is the antithesis of a growth mindset. the fixed mindset stands at odds with the 
+growth mindset. The fixed mindset sees a challenge and retreats. When the fixed mindset meets adversity it avoids it at every turn as shown in the image 
+below:
 
-### Markdown
+### Growth Vs. Fixed Mindset ###
+![Growth Vs.Fixed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhAV7CuqlBGwu1xo-2opQfdJsJOfMlw_6Cw&usqp=CAU)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## _Reminders_ ##
 
-```markdown
-Syntax highlighted code block
+There are three ways I can keep myself in a growth mindset:
+1. The first is to view challenges and disfficulty as an opportunity to 
+become better than I am now.
+2. Another way I can acheive a growth mindset more often is to view 
+complacency as the silent killer of goals. 
+3. Finally I can remain in a growth mindset through acknowledging 
+when I need help or don't know something.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Link to my porfolio [Marcus McNeil](https://github.com/Marco-Senpai)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marco-Senpai/Marco-Senpai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
