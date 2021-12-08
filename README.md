@@ -24,7 +24,7 @@ complacency as the silent killer of goals.
 when I need help or don't know something.
 
 
-[II Behold the Almighty GitHub](https://marco-senpai.github.io/the-almighty.github.io)
+[II Behold the Almighty GitHub](https://marco-senpai.github.io/the-almighty-g.github.io)
 
 
 
